@@ -6,7 +6,7 @@ export const sfSprite = (
       alignItems: "center",
     }}
   >
-    <h2>Social Freaks</h2>
+    <h2>Project 1</h2>
     <p>
       An all-in-one next-js social media, youtube trailer playing, shopping and
       chatting platform using next-auth, Redux, Styled-components, firebase
@@ -34,9 +34,9 @@ export const iicSprite = (
       alignItems: "center",
     }}
   >
-    <h2>IIC DCRUST Web App</h2>
+    <h2>Web App</h2>
     <p>
-      The Web Application of Institute Innovation Cell, an MIC envisioned
+      The Web Application of Waffle ,
       society for helping budding innovative minds. Worked on this project as
       the team leader of front-end team.It uses React.js, Styled-components and
       Material-UI for styling as main front-end components.
@@ -91,7 +91,7 @@ export const museumSprite = (
       alignItems: "center",
     }}
   >
-    <h2>Museum Counsel</h2>
+    <h2>Another project</h2>
     <p>
       A Web Application which gives its user the information about museums in
       India including reviews and location. It uses Basic web technologies like

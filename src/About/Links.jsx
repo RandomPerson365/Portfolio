@@ -17,7 +17,7 @@ const Links = ({ font }) => {
       <group>
         <mesh rotation={text_angle} position={[x, 0.1, z]}>
           <Text3D font={font} size={1} height={0.1}>
-            Hackerrank
+            Code Forces
           </Text3D>
           <meshBasicMaterial attach="material" color="#fafafa" metalness={1} />
         </mesh>

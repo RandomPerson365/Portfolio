@@ -252,7 +252,7 @@ const CameraControls = ({ icon, squidDoll }) => {
       onObject[0].object &&
       onObject[0].object.uuid === contactRef.current.uuid
     ) {
-      contact && window.open("https://vinay-matta.web.app/contact", "contact");
+      contact && window.open("", "contact");
       setContact(false);
     } else {
       setContact(true);
